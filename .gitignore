@@ -2,3 +2,5 @@
 /.idea/
 /.gradle/
 /modules/liferay-demo-site-initializer/build/
+/build/
+/modules/liferay-demo-site-initializer/classes/

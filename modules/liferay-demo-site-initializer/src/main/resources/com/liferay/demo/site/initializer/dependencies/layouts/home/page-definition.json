@@ -1,0 +1,361 @@
+{
+	"pageElement": {
+		"pageElements": [
+			{
+				"definition": {
+					"backgroundColor": "",
+					"backgroundFragmentImage": {
+					},
+					"fragmentStyle": {
+						"backgroundFragmentImage": {
+						},
+						"borderRadius": "",
+						"borderWidth": "0",
+						"fontFamily": "",
+						"fontSize": "",
+						"fontWeight": "",
+						"height": "",
+						"marginBottom": "",
+						"marginLeft": "",
+						"marginRight": "",
+						"marginTop": "",
+						"maxHeight": "",
+						"maxWidth": "",
+						"minHeight": "",
+						"minWidth": "",
+						"opacity": "100",
+						"overflow": "",
+						"paddingBottom": "",
+						"paddingLeft": "",
+						"paddingRight": "",
+						"paddingTop": "",
+						"shadow": "",
+						"textAlign": "",
+						"width": ""
+					},
+					"layout": {
+						"borderWidth": 0,
+						"marginBottom": 0,
+						"marginLeft": 0,
+						"marginRight": 0,
+						"marginTop": 0,
+						"opacity": 100,
+						"paddingBottom": 0,
+						"paddingLeft": 0,
+						"paddingRight": 0,
+						"paddingTop": 0,
+						"widthType": "Fluid"
+					}
+				},
+				"pageElements": [
+					{
+						"definition": {
+							"backgroundColor": "",
+							"backgroundFragmentImage": {
+							},
+							"fragmentStyle": {
+								"backgroundFragmentImage": {
+								},
+								"borderRadius": "",
+								"borderWidth": "0",
+								"fontFamily": "",
+								"fontSize": "",
+								"fontWeight": "",
+								"height": "",
+								"marginBottom": "",
+								"marginLeft": "",
+								"marginRight": "",
+								"marginTop": "",
+								"maxHeight": "",
+								"maxWidth": "",
+								"minHeight": "",
+								"minWidth": "",
+								"opacity": "100",
+								"overflow": "",
+								"paddingBottom": "",
+								"paddingLeft": "",
+								"paddingRight": "",
+								"paddingTop": "",
+								"shadow": "",
+								"textAlign": "",
+								"width": ""
+							},
+							"layout": {
+								"borderWidth": 0,
+								"marginBottom": 0,
+								"marginLeft": 0,
+								"marginRight": 0,
+								"marginTop": 0,
+								"opacity": 100,
+								"paddingBottom": 0,
+								"paddingLeft": 0,
+								"paddingRight": 0,
+								"paddingTop": 0,
+								"widthType": "Fluid"
+							}
+						},
+						"pageElements": [
+							{
+								"definition": {
+									"fragmentStyle": {
+										"backgroundFragmentImage": {
+										},
+										"borderRadius": "",
+										"borderWidth": "0",
+										"fontFamily": "",
+										"fontSize": "",
+										"fontWeight": "",
+										"height": "",
+										"marginBottom": "",
+										"marginLeft": "",
+										"marginRight": "",
+										"marginTop": "",
+										"maxHeight": "",
+										"maxWidth": "",
+										"minHeight": "",
+										"minWidth": "",
+										"opacity": "100",
+										"overflow": "",
+										"paddingBottom": "",
+										"paddingLeft": "",
+										"paddingRight": "",
+										"paddingTop": "",
+										"shadow": "",
+										"textAlign": "",
+										"width": ""
+									},
+									"gutters": true,
+									"modulesPerRow": 2,
+									"numberOfColumns": 2,
+									"rowViewports": [
+										{
+											"id": "landscapeMobile",
+											"rowViewportDefinition": {
+											}
+										},
+										{
+											"id": "portraitMobile",
+											"rowViewportDefinition": {
+											}
+										},
+										{
+											"id": "tablet",
+											"rowViewportDefinition": {
+											}
+										}
+									]
+								},
+								"pageElements": [
+									{
+										"definition": {
+											"columnViewports": [
+												{
+													"columnViewportDefinition": {
+													},
+													"id": "landscapeMobile"
+												},
+												{
+													"columnViewportDefinition": {
+													},
+													"id": "portraitMobile"
+												},
+												{
+													"columnViewportDefinition": {
+													},
+													"id": "tablet"
+												}
+											],
+											"size": 6
+										},
+										"pageElements": [
+											{
+												"definition": {
+													"fragment": {
+														"key": "BASIC_COMPONENT-heading"
+													},
+													"fragmentConfig": {
+														"headingLevel": "h1"
+													},
+													"fragmentFields": [
+														{
+															"id": "element-text",
+															"value": {
+																"text": {
+																	"value_i18n": {
+																		"en_US": "Demo Page"
+																	}
+																}
+															}
+														}
+													],
+													"fragmentStyle": {
+														"backgroundFragmentImage": {
+														},
+														"borderRadius": "",
+														"borderWidth": "0",
+														"fontFamily": "",
+														"fontSize": "",
+														"fontWeight": "",
+														"height": "",
+														"marginBottom": "4",
+														"marginLeft": "",
+														"marginRight": "",
+														"marginTop": "",
+														"maxHeight": "",
+														"maxWidth": "",
+														"minHeight": "",
+														"minWidth": "",
+														"opacity": "100",
+														"overflow": "",
+														"paddingBottom": "",
+														"paddingLeft": "",
+														"paddingRight": "",
+														"paddingTop": "",
+														"shadow": "",
+														"textAlign": "",
+														"width": ""
+													}
+												},
+												"type": "Fragment"
+											},
+											{
+												"definition": {
+													"fragment": {
+														"key": "BASIC_COMPONENT-paragraph"
+													},
+													"fragmentConfig": {
+													},
+													"fragmentFields": [
+														{
+															"id": "element-text",
+															"value": {
+																"text": {
+																	"value_i18n": {
+																		"en_US": "Just a page created from a site initializer. It has OOTB fragments and a fragment from a collection."
+																	}
+																}
+															}
+														}
+													],
+													"fragmentStyle": {
+														"backgroundFragmentImage": {
+														},
+														"borderRadius": "",
+														"borderWidth": "0",
+														"fontFamily": "",
+														"fontSize": "",
+														"fontWeight": "",
+														"height": "",
+														"marginBottom": "",
+														"marginLeft": "",
+														"marginRight": "",
+														"marginTop": "",
+														"maxHeight": "",
+														"maxWidth": "",
+														"minHeight": "",
+														"minWidth": "",
+														"opacity": "100",
+														"overflow": "",
+														"paddingBottom": "",
+														"paddingLeft": "",
+														"paddingRight": "",
+														"paddingTop": "",
+														"shadow": "",
+														"textAlign": "",
+														"width": ""
+													}
+												},
+												"type": "Fragment"
+											}
+										],
+										"type": "Column"
+									},
+									{
+										"definition": {
+											"columnViewports": [
+												{
+													"columnViewportDefinition": {
+													},
+													"id": "landscapeMobile"
+												},
+												{
+													"columnViewportDefinition": {
+													},
+													"id": "portraitMobile"
+												},
+												{
+													"columnViewportDefinition": {
+													},
+													"id": "tablet"
+												}
+											],
+											"size": 6
+										},
+										"pageElements": [
+											{
+												"definition": {
+													"fragment": {
+														"key": "demo-image"
+													},
+													"fragmentConfig": {
+														"imageSize": "w-100"
+													},
+													"fragmentFields": [
+														{
+															"id": "image-square",
+															"value": {
+																"fragmentImage": {
+																	"url": {
+																		"value_i18n": {
+																		}
+																	}
+																}
+															}
+														}
+													],
+													"fragmentStyle": {
+														"backgroundFragmentImage": {
+														},
+														"borderRadius": "",
+														"borderWidth": "0",
+														"fontFamily": "",
+														"fontSize": "",
+														"fontWeight": "",
+														"height": "",
+														"marginBottom": "",
+														"marginLeft": "",
+														"marginRight": "",
+														"marginTop": "",
+														"maxHeight": "",
+														"maxWidth": "",
+														"minHeight": "",
+														"minWidth": "",
+														"opacity": "100",
+														"overflow": "",
+														"paddingBottom": "",
+														"paddingLeft": "",
+														"paddingRight": "",
+														"paddingTop": "",
+														"shadow": "",
+														"textAlign": "",
+														"width": ""
+													}
+												},
+												"type": "Fragment"
+											}
+										],
+										"type": "Column"
+									}
+								],
+								"type": "Row"
+							}
+						],
+						"type": "Section"
+					}
+				],
+				"type": "Section"
+			}
+		],
+		"type": "Root"
+	}
+}
